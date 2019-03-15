@@ -1,4 +1,6 @@
-## My Profile: Wayne Lightfoot
+## My Profile: Wayne Lightfoot                
+
+<img src=![family](https://user-images.githubusercontent.com/48243224/54408150-aa65d400-471b-11e9-853d-ed7de096003a.jpg) width=100
 Student ID: s3792967                 
 
 s3792967@student.rmit.edu.au
@@ -17,7 +19,6 @@ all come to be. My experience is limited, I completed BIT (Business Inforamtion 
 ```markdown
 Ideal Job
 
-https://github.com/lightfoot610/Demo1/issues/url
 
 ## Header 2
 ### Header 3
