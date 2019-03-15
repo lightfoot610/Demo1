@@ -1,5 +1,5 @@
 ## My Profile: Wayne Lightfoot
-Student ID: s3792967 
+Student ID: s3792967                          ![20190223_135214 1471](https://user-images.githubusercontent.com/48243224/54407632-86a18e80-4719-11e9-94a3-9f205e49b026.jpg)
 
 s3792967@student.rmit.edu.au
 
