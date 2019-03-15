@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## My Profile: Wayne Lightfoot
+Student ID: s3792967
+s3792967@student.rmit.edu.au
 
-You can use the [editor on GitHub](https://github.com/lightfoot610/Demo1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Background
+I am 30, married and have a energetic 2 year old boy. I am an electrician and working in the building and construction industry
+for 13 years. My life evolves around family but i have a passion for AFL football and cricket also. Previous knee reconstructions and surgeries has limited and shutdown my football career. I still enjoy helping my local club though managing one of the teams.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Interest in IT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have always had an interest in IT but in my younger age i spent most of my time invested in sporting activities. Now with my 
+body not as able as before ive began to spend more time behind a screen and become curious of how the internet, programs, applications,
+all come to be. My experience is limited, I completed BIT (Business Inforamtion Technology) subject in high school and set up switches, comms racks through my work for homes and businesses. I see IT guys come in and program rooms and areas I've wired and found their work so much more intruiging. I chose to RMIT to complete a Bachelor of IT and learn these skills and expand my knowledge in a more challenging and rewarding field.
 
 ```markdown
 Syntax highlighted code block
